@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/EvulDev-7Cav/7CAVSupply/master/logo_cav_c.png" width="200" align="right">
+<img src="https://raw.githubusercontent.com/7thCavalryGaming/CavPack/master/logo_cav_c.png" width="200" align="right">
 
 #### Content
 
