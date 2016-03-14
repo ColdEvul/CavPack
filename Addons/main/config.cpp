@@ -570,7 +570,7 @@ class CfgPatches {
         };
         VERSION_CONFIG;
         author[] = {"7th Cavalry Gaming"};
-        authorUrl = "https://github.com/7thCavalryGaming";
+        authorUrl = "http://7cav.us/";
 	};
 };
 
