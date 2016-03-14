@@ -1,0 +1,12 @@
+name = "Internal Development Builds";
+picture = "logo_cav_ca.paa";
+actionName = "Website";
+action = "http://7cav.us/";
+description = "Modpack for 1st Battalion, 7th Cavalry Regiment";
+logo = "logo_cav_ca.paa";
+logoOver = "logo_cav_cb.paa";
+tooltip = "7th Cavalry Gaming";
+tooltipOwned = "7th Cavalry Gaming";
+overview = "Modpack for 1st Battalion, 7th Cavalry Regiment";
+author = "7th Cavalry Gaming";
+overviewPicture = "logo_cav_c.paa";
