@@ -7,7 +7,8 @@ class CfgPatches {
         magazines[] = {};
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {
-            "CavPack_Main"
+            "CavPack_Main",
+            "ACE_Interact_menu"
         };
         VERSION_CONFIG;
         author[] = {"7th Cavalry Gaming"};
