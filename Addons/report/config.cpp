@@ -17,11 +17,9 @@ class CfgPatches {
 };
 
 class CAV_DialogMain {
-​
-	idd = 99580;
+​	idd = 99580;
 	movingenabled = "false";
 	enabledSimulation = 1;
-​
 	class controlsBackground {};
 	class controls {};
 };

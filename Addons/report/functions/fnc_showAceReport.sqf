@@ -1,8 +1,11 @@
-	_display = _this select 0;
+_handle = createDialog "CAV_DialogMain";
+​
+with uiNamespace do {
+​
+	disableSerialization;
+	_display = findDisplay 99580;
 	
-	disableSerialization;		
-		
-		Button_Observer_Main = _display ctrlCreate ["RscButton", 1001];
-		Button_Observer_Main ctrlSetText ("Observer");
-		Button_Observer_Main ctrlSetPosition  [X_PART(5), Y_PART(2), W_PART(8.5),H_PART(3)];
-		Button_Observer_Main ctrlCommit 0;
+		button_test = _display ctrlCreate ["RscButton", 1000];
+		button_test ctrlSetPosition  [0.484531 * safezoneW + safezoneX, 0.5 * safezoneH + safezoneY, 0.04125 * safezoneW, 0.022 * safezoneH];
+		button_test ctrlCommit 0;
+};
