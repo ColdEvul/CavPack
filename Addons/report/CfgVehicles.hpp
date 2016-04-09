@@ -7,7 +7,7 @@ class CfgVehicles {
                     condition = 1;
                     displayName = "ACE report";
                     exceptions[] = {"isNotInside","notOnMap","isNotSitting"};
-                    icon = QUOTE(PATHTOF(UI\icons\CAV_Actions.paa));
+                    //icon = QUOTE(PATHTOF(UI\icons\CAV_Actions.paa));
                     priority = 0;
                     showDisabled = 1;
                     statement = QUOTE(_player call FUNC(showAceReport));
